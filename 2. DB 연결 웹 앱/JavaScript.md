@@ -29,3 +29,13 @@
 6. 자바스크립트에서 "a"와 'a'는 같은 타입이다. ( O , X )
 
 7. 자바스크립트에서는 함수가 실행되면 arguments라는 특별한 지역변수가 존재한다. 넘어온 인자를 arguments로 하여 배열의 메소드를 사용하여 접근할 수 있다. ( O , X ) 
+
+8. 아래의 코드를 arrow function으로 바꿔 보시오
+
+   ~~~
+   function Hello(name){
+       return "Hello " + name + "BoostCourse";
+   }
+   ~~~
+
+   

@@ -26,7 +26,7 @@ star, fork, pull request, 출처를 밝힌 무분별한 공유는 언제든지 �
    - Summary
 
 2. <strong>DB 연결 웹 앱</strong>
-   - JavaScript - FE
+   - [JavaScript - FE](https://github.com/ShinJeKim/BoostCourse_Web/blob/master/2.%20DB%20%EC%97%B0%EA%B2%B0%20%EC%9B%B9%20%EC%95%B1/JavaScript.md)
    - WEB UI 개발 - FE
    - JSP - BE
    - redirect & forward - BE
