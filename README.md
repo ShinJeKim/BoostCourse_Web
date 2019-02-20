@@ -46,9 +46,3 @@ star, fork, pull request, 출처를 밝힌 무분별한 공유는 언제든지 �
 5. <strong>웹 앱 개발: 예약서비스 3/4</strong>
 
 6. <strong>웹 앱 개발: 예약서비스 4/4</strong>
-
-<br>
-<br>
-<br>
-<br>
-<br>
